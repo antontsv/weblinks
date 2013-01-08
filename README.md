@@ -4,6 +4,7 @@ Front-end
 2. Form builder, mockups, font-face: http://habrahabr.ru/post/162283/
 3. CSS float: http://habrahabr.ru/post/142486/
 4. Retina displays: http://habrahabr.ru/post/155683/
+5. Experimental JS: http://habrahabr.ru/post/157111/
 
 Back-end
 ========
