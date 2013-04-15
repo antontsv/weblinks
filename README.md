@@ -15,6 +15,7 @@ Back-end
 5. NGINX config: http://nginx.org/ru/docs/example.html
 6. Bash reference: http://tldp.org/LDP/abs/html/refcards.html
 7. Tons of sed usage examples: http://www.grymoire.com/Unix/Sed.html
+8. Bash CLI http://ss64.com/bash/
 
 Mac
 ===
